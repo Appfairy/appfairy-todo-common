@@ -31,6 +31,7 @@
 
     .check {
       cursor: $cursor;
+      user-select: none;
     }
   }
 
@@ -57,5 +58,6 @@
     line-height: $size;
     text-align: center;
     cursor: pointer;
+    user-select: none;
   }
 }
