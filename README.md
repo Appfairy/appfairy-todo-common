@@ -2,6 +2,7 @@
 
 Contains common assets for the following projects:
 
+- https://GitHub.com/Appfairy/appfairy-todo-angular
 - https://GitHub.com/Appfairy/appfairy-todo-react
 - https://GitHub.com/Appfairy/appfairy-todo-vue
 
